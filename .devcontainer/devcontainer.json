@@ -25,7 +25,8 @@
         "dbaeumer.vscode-eslint",
         "bierner.markdown-mermaid",
         "Gruntfuggly.todo-tree",
-        "humao.rest-client"
+        "humao.rest-client",
+        "astro-build.astro-vscode"
       ],
       "settings": {
         "editor.tabSize": 2, // インデントタブサイズは2とする
